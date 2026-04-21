@@ -1,6 +1,6 @@
-# [Material Dashboard 2 React](http://demos.creative-tim.com/material-dashboard-react/#/dashboard?ref=readme-mdr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-dashboard-react&text=Check%20Material%20Dashboard%202%20react%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#materialdesign%20#react%20https://www.creative-tim.com/product/material-dashboard-react)
+# [Material Dashboard 2 React](http://demos.creative-tim.com/material-dashboard-react/#/dashboard?ref=readme-mdr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://facebook.com/share/1E9deijpxL/)
 
-![version](https://img.shields.io/badge/version-2.2.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react.svg)](https://github.com/creativetimofficial/material-dashboard-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react.svg)](https://github.com/creativetimofficial/material-dashboard-react/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.2.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react.svg)](https://github.com/useratnns/material-dashboard-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react.svg)](https://github.com/useratnns/material-dashboard-react/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/71/original/material-dashboard-react.jpg?1638950990)
 
@@ -30,7 +30,7 @@ View [example pages here](https://demos.creative-tim.com/material-dashboard-reac
 
 **HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/creativetimofficial/material-dashboard-react)
+- View [Github Repository](https://github.com/useratnns/material-dashboard-react)
 - Check [FAQ Page](https://www.creative-tim.com/faq)
 
 #### Special thanks
@@ -92,7 +92,7 @@ Quick start options:
 
 :rocket: You can deploy your own version of the template to Genezio with one click:
 
-[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/material-dashboard-react&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/useratnns/material-dashboard-react&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
 
 ## Documentation
 
@@ -184,7 +184,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/material-dashboard/?ref=readme-mdr)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-mdr)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-mdr)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-react/issues)
+- Issues: [Github Issues Page](https://github.com/useratnns/material-dashboard-react/issues)
 - [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
 
 ## Reporting Issues
